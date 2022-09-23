@@ -10,8 +10,9 @@
 </head>
 <body>
 <h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
-<h1 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Saturday Jan 9, 2021 at 11am EST for our new batch. 
+<h1 align="center"> I am blessed to be part of a highly favoured IT group. God has made me a Devops engineer through Landmark Technology. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. 
+	MY NAME IS GRADI AND I APPROVE THIS MESSAGE
 	</h1>
 	<h1 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h1>
 <hr>
